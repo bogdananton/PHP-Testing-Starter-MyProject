@@ -1,4 +1,4 @@
-PHP-Testing-Starter-MyProject
-=============================
+# PHP Testing Starter - MyProject
+> Demo project for the step by step tutorial [PHP Testing Starter].
 
-Demo project for PHP Testing Starter tutorial.
+[PHP Testing Starter]:https://github.com/serbanghita/PHP-Testing-Starter
