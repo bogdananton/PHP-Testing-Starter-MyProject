@@ -1,0 +1,20 @@
+{
+  "name": "yourname/myproject",
+  "type": "library",
+  "description": "A demo project.",
+  "keywords": ["project", "demo", "php project"],
+  "homepage": "https://github.com/yourname/MyProject",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "MyProject\\": "lib/",
+      "MyProjectTest\\": "tests/lib/"
+    }
+  }
+}
